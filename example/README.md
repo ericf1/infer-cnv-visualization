@@ -18,6 +18,8 @@ The gene order file that I use is:
 
 ### Running the script
 
+0. Install conda/miniconda
+
 1. Activate the appropriate conda environment
 
    ```
@@ -50,3 +52,5 @@ The gene order file that I use is:
 2. Clone this repository: `https://github.com/ericf1/infer-cnv-visualization.git`
 3. Move the downloaded `output_compressed.tsv` into the website directory
 4. Open the website directory, right click index.html, click on Open with Live Server
+
+The website should then successfully show the visualization.
